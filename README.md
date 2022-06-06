@@ -1,8 +1,8 @@
 # Guilherme-H.
 sobre mim:
 
--treino baseball
+# -⚾️Treino baseball⚾️
 
--estudo no CENG
+# -📚Estudo no CENG📚
 
--moro em Londrina
+# -🏡Moro em Londrina🏡
